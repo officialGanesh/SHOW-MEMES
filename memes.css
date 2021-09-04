@@ -13,30 +13,20 @@ body{
 
 .card{
 
-    width: 40rem;
-    height: 22rem;
+    width: 50%;
+    height: 50%;
     border-radius: 7px;
-    margin-top: 16rem;
+    margin-top: 10rem;
     margin-left: 20rem;
 }
 
-#title{
+#header{
     font-size: 3rem;
     display: inline-block;
     margin: 1rem;
     padding: 5px;
 }
 
-#Plength{
-    
-    display: block;
-    color: crimson;
-    margin-top: 5px;
-    margin-right: 7px;
-    margin-bottom: 4vh;
-    margin-left: 10rem;
-    padding: 6px;
-    border-radius: 5px;
-}
+
 
 
