@@ -1,0 +1,42 @@
+
+*{
+    padding: 0px;
+    margin: 0px;
+    font-family: 'Roboto Mono', monospace;;
+    text-align: center;
+    
+}
+
+body{
+    background-color: #7fe4b5;
+}
+
+.card{
+
+    width: 40rem;
+    height: 22rem;
+    border-radius: 7px;
+    margin-top: 16rem;
+    margin-left: 20rem;
+}
+
+#title{
+    font-size: 3rem;
+    display: inline-block;
+    margin: 1rem;
+    padding: 5px;
+}
+
+#Plength{
+    
+    display: block;
+    color: crimson;
+    margin-top: 5px;
+    margin-right: 7px;
+    margin-bottom: 4vh;
+    margin-left: 10rem;
+    padding: 6px;
+    border-radius: 5px;
+}
+
+
