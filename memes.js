@@ -1,6 +1,6 @@
 console.log("Memes 🔥");
 
-let memeLink = '  https://meme-api.herokuapp.com/gimme';
+let memeLink = 'https://meme-api.herokuapp.com/gimme';
 
 let getMeme = document.querySelector("#generate");
 let memeTitle = document.getElementById('title');
