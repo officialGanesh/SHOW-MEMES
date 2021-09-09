@@ -32,3 +32,5 @@ function generateMeme(){
 
     xhr.send()
 }
+
+window.onload = generateMeme()
